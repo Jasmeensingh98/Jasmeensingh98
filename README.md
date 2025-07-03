@@ -1,4 +1,6 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmeensingh98&label=Profile%20views&color=0e75b6&style=flat" alt="jasmeensingh98" /> </p>
+
 👋 Hi, I’m Jasmeen Singh, a 3rd-year Computer Science Engineering student at Chitkara University.<br>💻 Aspiring Software Engineer with a strong interest in Full Stack Development.<br>🌱 Passionate about learning new technologies, building meaningful projects, and continuously improving.<br>📸 When I’m not coding, you’ll find me exploring photography, music, and travelling.<br>🚀 Currently expanding my skills in modern web development and open source contributions.<br><br>
 
 
